@@ -7,7 +7,7 @@ from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from bot import Translation # hmmm
 from bot.database import Database # hmmm
- # removed ForceSub
+ # removed ForceSub #add if u want
 db = Database()
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
