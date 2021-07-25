@@ -31,7 +31,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption =f"<code>{file_name}</code>\n \n<b>T̷h̷a̷n̷k̷ ̷y̷o̷u̷ ̷f̷o̷r̷ ̷U̷s̷i̷n̷g̷ ̷T̷h̷i̷s̷ ꪖᡶꪑꪉ Version 2.9\n ꪖᡶꪑꪉ =Any Time Movie Bot😜🤣</b>",
+                caption =f"<b>💾:@PrimeFlixMedia_All.{file_name}📽️\n@PrimeFlix_Chats</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'S̵̶̮̬͖̄͑͟h̶̯̰̝̻̿̓͢ă̶̸̝ͦ͊̿͋͞r̶̷̲͍̭͐̾̀͟ę̷̵̧̖̫̗̆̊ N̰̜͉͔ͬ̽͢ȍ̸̢̢̮͚̐̚ẅ̷̷̢̟͇͈̒', url="https://t.me/share/url?url=%20https://t.me/leos_tg"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/share/url?url=%20https://t.me/leos_tg"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'S̵̶̮̬͖̄͑͟h̶̯̰̝̻̿̓͢ă̶̸̝ͦ͊̿͋͞r̶̷̲͍̭͐̾̀͟ę̷̵̧̖̫̗̆̊ N̰̜͉͔ͬ̽͢ȍ̸̢̢̮͚̐̚ẅ̷̷̢̟͇͈̒', url="https://t.me/share/url?url=%20https://t.me/leos_tg"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
                                 )
                         ]
                     ]
@@ -90,12 +90,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('ᗰ⊙ᕲ♗Ϝ♗€ᕲ ♭⚧', url='https://t.me/leos_tg'),
-        InlineKeyboardButton('𝕄𝕆𝕍𝕀𝔼 𝔾ℝ𝕆𝕌ℙ', url ='https://t.me/XeQuIsT')
+        InlineKeyboardButton('⭕Movies⭕', url='https://t.me/joinchat/zLLsYNJJyRxkMzY1'),
+        InlineKeyboardButton('⭕Series⭕', url ='https://t.me/joinchat/RzAj6C0C6zWiuaxL')
     ],[
-        InlineKeyboardButton('Questions?😏', url='https://www.google.com')
+        InlineKeyboardButton('⭕Group⭕', url='https://t.me/PrimeFlix_Chats')
     ],[
-        InlineKeyboardButton('🅷🅴🅻🅿', callback_data="help")
+        InlineKeyboardButton('♻️Help♻️', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -113,10 +113,10 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('B̟̈́̆̐̄̚͜ă̶̸̝ͦ͊̿͋͞c̷̹͖͋́̃k̶̸͙̭̹͆͟û̶͙̽̿͆̈p̶̸̨̺͊̍̒̓̀ ⚡', callback_data='start'),
-        InlineKeyboardButton('A҉҉̦̣̤͔̟̩̋̿̏ͦ̈́̍͟͠b҉͙̺̻̥̅̎͋̕͜͝͡͞͠o҉̢̡̲͇̌͗̀͢͝u̶͖̖͆̊̈́͡͡t҉̷҉̢͖͔̹͛̌͊͘͜͢͠͡͡ 🧞', callback_data='about')
+        InlineKeyboardButton('⭕Back⭕', callback_data='start'),
+        InlineKeyboardButton('⭕About⭕', callback_data='about')
     ],[
-        InlineKeyboardButton('🌜☾↳⊙∫€', callback_data='close')
+        InlineKeyboardButton('⭕Close⭕', callback_data='close')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -134,8 +134,8 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('B̵̴҉̞̠̘̩͍̱́͊͗͜͠͠͠͠a҉͖̟̜̞̂̃̑̽͢͢͠͡c̷̶҉̵̢͚̣̻̲̬͑̑͛͐̀͜͜͜͝͡͝͠k҉̴̶̬͈̫̹͖̾̎ͭ́̍̐͜͜͝͠ ⚡', callback_data='start'),
-        InlineKeyboardButton('☾↳⊙∫€  ', callback_data='close')
+        InlineKeyboardButton('⭕Back⭕', callback_data='start'),
+        InlineKeyboardButton('⭕Close⭕', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
