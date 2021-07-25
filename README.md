@@ -23,7 +23,7 @@
            & ITz MuCh BetTeR ThaN V2 .. 
            SUppoRt mE By FOrkiNG & GimMMee 🌟
                         
-                           SpeCial ThankZ To @CLaY995
+                           SpeCial ThankZ To @Leos_TG
 ```
 ## Requirements 
 * Python 3.8 or Higher
