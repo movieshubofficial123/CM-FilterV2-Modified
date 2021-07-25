@@ -10,7 +10,7 @@ Am Just A Advanced Auto Filter Bot for @PrimeFlix_Chats....😉\n
 You can Request Any Movie you want at our Group and I will provide the Files🗂️ in the Form of 🔗 Button Filters.\n
 
 For More Details Click /help Button ..\n
-#StopPiracy #GoLegal</b>"""
+</b>"""
 
     
     HELP_TEXT = """
