@@ -31,7 +31,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption =f"<b>💾:@PrimeFlixMedia_All.{file_name}📽️\n@PrimeFlix_Chats</b>",
+                caption =f"<i><b>💾:@PrimeFlixMedia_All.{file_name}📽️\n\n@PrimeFlix_Chats</b></I>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
