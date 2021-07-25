@@ -1643,7 +1643,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('⭕Movies⭕', url='https://t.me/joinchat/zLLsYNJJyRxkMzY1'),
             InlineKeyboardButton('⭕Series⭕', url ='https://t.me/joinchat/RzAj6C0C6zWiuaxL')
         ],[
-            InlineKeyboardButton('⭕Group⭕', url='https://t.me/XDgangZ')
+            InlineKeyboardButton('⭕Group⭕', url='https://t.me/PrimeFlix_Chats')
         ],[
             InlineKeyboardButton('♻️Home♻️', callback_data="help")
         ]]
