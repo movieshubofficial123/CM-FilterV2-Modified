@@ -1,7 +1,7 @@
-<h2 align="center"><b>Owner: <a href="https://t.me/InlineLeosbot">Leo's ░ BiTch</a></b></h2>
+<h2 align="center"><b>It'z Me <a href="https://t.me/CLaY995">CLÆ͜͡Ｙ</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/wonkru-bot/my-vertion-of-Userge-x"><img src="https://telegra.ph/file/e76d40ed899c2abd87209.jpg" alt="Userge-x" width=400px></a>
+   <a href="https://github.com/wonkru-bot/my-vertion-of-Userge-x"><img src="https://telegra.ph/file/24a1ddd705122b1c9e4a1.jpg" alt="Userge-x" width=400px></a>
    <br>
    <br>
 </p>
@@ -15,17 +15,15 @@
 **Version 2.9** is a Powerful ,Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 <br>
 <p align="center">
-    <a href="https://telegram.dog/XDgangZ"><img src="https://img.shields.io/badge/Support%20Group-XDgangZ--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
+    <a href="https://telegram.dog/PrimeFlix_Chats"><img src="https://img.shields.io/badge/Support%20Group-PFM--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 
 ## Disclaimer
 ```
-/**
    ITz Not mY CreAtiOn i JusT ModIfiEd & MakeD iT oN My wAy💃
            & ITz MuCh BetTeR ThaN V2 .. 
            SUppoRt mE By FOrkiNG & GimMMee 🌟
                         
-                           SpeCial ThankZ To @WONKRU_HERE
-/**
+                           SpeCial ThankZ To @CLaY995
 ```
 ## Requirements 
 * Python 3.8 or Higher
@@ -35,7 +33,7 @@
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
 * With Heroku: [Ask Leo](https://t.me/inlineLeosBot)
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/3534cc09d513704a68127.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/e0c3d6a06cdb9d4f223a6.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
