@@ -35,7 +35,7 @@
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
 * With Heroku: [Ask Leo](https://t.me/inlineLeosBot)
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/wonkru-bot/my-vertion-of-Userge-x/tree/alpha"><img src="https://telegra.ph/file/3534cc09d513704a68127.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/3534cc09d513704a68127.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
