@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # (c) @SpEcHIDe
-# Modified by @Leos_tg
+# Modified by @CLaY995
 from pyrogram import Client, __version__
 
 from . import API_HASH, APP_ID, LOGGER, BOT_TOKEN 
