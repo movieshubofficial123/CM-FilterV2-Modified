@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("💢 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💢", url="https://t.me/PrimeFlixMedia_All")
+                    InlineKeyboardButton("💢ＪＯＩＮ.ＯＵＲ.ＣＨＡＮＮＥＬ💢", url="https://t.me/PrimeFlixMedia_All")
                 ]
             )
         for filter in filters: # iterating through each files
@@ -152,13 +152,13 @@ async def auto_filter(bot, update):
         if len_result != 1:
             result[0].append(
                 [
-                    InlineKeyboardButton("Next ➡️", callback_data=f"navigate(0|next|{query})")
+                    InlineKeyboardButton("•Next ➡️", callback_data=f"navigate(0|next|{query})")
                 ]
             )
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"📄 Page 1/{len_result if len_result < max_pages else max_pages} ", callback_data="ignore")
+            InlineKeyboardButton(f"📑 Page 1/{len_result if len_result < max_pages else max_pages} 📑", callback_data="ignore")
         ])
         
         
