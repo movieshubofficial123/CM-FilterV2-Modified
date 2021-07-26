@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # (c) @AlbertEinsteinTG
-# Modified by @Leos_TG
+# Modified by @CLaY995
 
 from .bot import Bot
 
