@@ -5,29 +5,34 @@
 class Translation(object):
     
     START_TEXT = """ <b>Hi {} 😌
-Am Just A Advanced Auto Filter Bot for @PrimeFlix_Chats....😉\n
+I'm officially made for ~ @PrimeFlix_Chats...😉\n
 
-You can Request Any Movie you want at our Group and I will provide the Files🗂️ in the Form of 🔗 Button Filters.\n
+You can Request Any Movie you want at our Group\n& I will provide the Files🗂️ in the Form of ~\n 🔗 Button Filters.\n
 
 For More Details Click /help Button ..\n
+
+             ~🇲‌🇦‌🇳‌🇦‌🇬‌🇪‌🇷‌ᵒᶠ ᵖʳⁱᵐᵉᶠˡⁱˣ ᶜʰᵃᵗˢ
 </b>"""
 
     
     HELP_TEXT = """
 <<b><i><u>How To Use Me!?</u></i></b>
 <b>Bot Commands (Works Only In Groups) :</b>
-     •<code>/add channel_id</code> <b>OR</b> <code> channel_username</code>
-                 - 𝐓𝐨 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐚 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐰𝐢𝐭𝐡 𝐚 𝐆𝐑𝐎𝐔𝐏
+
+ •<code>/add channel_id</code> <b>OR</b> <code> channel_username</code>
+    - To <b>CONNECT</b> a Channel ~ Group.
      
-     •<code>/del channel_id</code> <b>OR</b> <code>channel_username</code>
-                 - 𝐓𝐨 𝐃𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐟𝐫𝐨𝐦 𝐚 𝐆𝐑𝐎𝐔𝐏
+ •<code>/del channel_id</code> <b>OR</b> <code>channel_username</code>
+   - To <b>DISCONNECT</b> a Channel ~ Group.
      
-     •<code>/delall</code>  
-                 - 𝐓𝐨 𝐃𝐢𝐬𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐥𝐥 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
+ •<code>/delall</code>  
+   - To <b>DISCONNECT</b> all Connected Channels.
     
-     •<code>/settings</code> 
-                 - 𝐓𝐨 𝐃𝐢𝐬𝐩𝐥𝐚𝐲 𝐭𝐡𝐞 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 𝐩𝐚𝐧𝐞𝐥 𝐨𝐟 𝐭𝐡𝐞 𝐁𝐎𝐓
-            
+ •<code>/settings</code> 
+   - To Display the <b>SETTINGS</b> Panel of the Bot.
+
+                  ~🇲‌🇦‌🇳‌🇦‌🇬‌🇪‌🇷‌ᵒᶠ ᵖʳⁱᵐᵉᶠˡⁱˣ ᶜʰᵃᵗˢ  
+                       
 """
 
     ABOUT_TEXT = """
