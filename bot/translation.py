@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """ <b>Hi {} 😌
-Am Just A Advanced Auto Filter Bot for @PrimeFlix_Chats....😉\n
+Am Just A Advanced Auto Filter Bot for @CM_Chats....😉\n
 
 You can Request Any Movie you want at our Group and I will provide the Files🗂️ in the Form of 🔗 Button Filters.\n
 
@@ -32,7 +32,7 @@ For More Details Click /help Button ..\n
 
     ABOUT_TEXT = """
 <b>🤖My Name</b> : <code>Call Me whatever u Like</code>
-<b>🧑‍🔬My Creator</b> : <b><a href="https://t.me/CLaY995">CLÆY</a></b>
+<b>🧑‍🔬My Creator</b> : <b><a href="https://t.me/Nakul006">ɴᴀᴋᴜʟ</a></b>
 <b>📄My Language</b> : <code>Python3</code>
 <b>📚My Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 <b>📋Source Code</b> : <b><a href="https://t.me/Oomban_ULLATH">Click Here</a></b>
