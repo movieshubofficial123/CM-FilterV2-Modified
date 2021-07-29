@@ -31,7 +31,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption =f"<i><b>💾:@PrimeFlixMedia_All.{file_name}📽️\n\n@PrimeFlix_Chats</b></I>",
+                caption =f"<i><b>💾:@Cinematoos_NR.{file_name}📽️\n\n@CM_Chats</b></I>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/CM_Chats"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/CM_Chats"
                                 )
                         ]
                     ]
@@ -90,10 +90,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⭕Movies⭕', url='https://t.me/joinchat/zLLsYNJJyRxkMzY1'),
-        InlineKeyboardButton('⭕Series⭕', url ='https://t.me/joinchat/RzAj6C0C6zWiuaxL')
+        InlineKeyboardButton('⭕Movies⭕', url='https://t.me/CinematoosNR'),
+        InlineKeyboardButton('⭕Series⭕', url ='https://t.me/joinchat/')
     ],[
-        InlineKeyboardButton('⭕Group⭕', url='https://t.me/PrimeFlix_Chats')
+        InlineKeyboardButton('⭕Group⭕', url='https://t.me/CM_Chats')
     ],[
         InlineKeyboardButton('♻️Help♻️', callback_data="help")
     ]]
@@ -102,7 +102,7 @@ async def start(bot, update):
     
     await bot.send_photo(
         chat_id=update.chat.id,
-        photo = 'https://telegra.ph/file/24a1ddd705122b1c9e4a1.jpg',
+        photo = 'https://telegra.ph/file/be9062d2bbd894cf5cf43.jpg',
         caption=Translation.START_TEXT.format(
                 update.from_user.first_name),
         parse_mode="html",
