@@ -53,6 +53,6 @@
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 
  - Thanks To @AlbertEinstein_TG For His Autofilter V2 [Autofilter V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2)
- - Special Credits For Leo [Leo](https://t.me/Leos_Tg)
+ - Special Credits For [CLÆ͜͡Ｙ](https://t.me/CLaY995)
 
 
