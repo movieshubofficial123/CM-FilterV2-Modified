@@ -1,15 +1,15 @@
 {
-    "name": "Version 2.9",
-    "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/e76d40ed899c2abd87209.jpg",
+    "name": "LooNI V2",
+    "description": "A Filter Bot Which Doesnt Need Manual Filter Additions",
+    "logo": "https://telegra.ph/file/24a1ddd705122b1c9e4a1.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
     "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/its-leo-bitch",
-    "success_url": "https://telegram.dog/Leos-TG",
+    "repository": "https://github.com/CLaY9950/Auto-LooniV2-2-",
+    "success_url": "https://telegram.dog/CLaY995",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org ",
