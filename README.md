@@ -31,7 +31,7 @@
 * MongoDB [Database URL](https://cloud.mongodb.com/)
 
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
-* With Heroku: [Deploy](https://t.me/inlineLeosBot)
+* With Heroku: Click in the PIC~BELOW👇
 <p align="center">
    <a href = "https://heroku.com/deploy?template=https://github.com/CLaY9950/Auto-LooniV2-2-"><img src="https://telegra.ph/file/e0c3d6a06cdb9d4f223a6.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
