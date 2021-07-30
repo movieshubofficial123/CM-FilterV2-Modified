@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("💢 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💢", url="https://t.me/PrimeFlixMedia_All")
+                    InlineKeyboardButton("💢 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💢", url="https://t.me/CinematoosNR")
                 ]
             )
         for filter in filters: # iterating through each files
@@ -208,7 +208,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_photo(
                 chat_id = update.chat.id,
-                photo="https://telegra.ph/file/bf06aa285dbe135960213.jpg",
+                photo="https://telegra.ph/file/be9062d2bbd894cf5cf43.jpg",
                 caption=f"<b>🗣️𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐁𝐲:- {update.from_user.mention} \n\n📀𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐌𝐨𝐯𝐢𝐞:- <code>{query}</code> 📽️\n🗂️𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:- {(len_results)} \n\n♻️𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲:- @PrimeFlixMedia_All </b>",
                 reply_markup=reply_markup,
                 parse_mode="html",
