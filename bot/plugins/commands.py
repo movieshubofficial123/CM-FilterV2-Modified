@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/PrimeFlix_Chats"
+                                    '📡sʜᴀʀᴇ & sᴜᴘᴘᴏʀᴛ📡', url="https://t.me/share/url?url=%20https://t.me/CM_Chats"
                                 )
                         ]
                     ]
