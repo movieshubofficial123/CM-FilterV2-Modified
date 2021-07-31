@@ -35,7 +35,7 @@ For More Details Click /help Button ..\n
 <b>🧑‍🔬My Creator</b> : <b><a href="https://t.me/Nakul006">ɴᴀᴋᴜʟ</a></b>
 <b>📄My Language</b> : <code>Python3</code>
 <b>📚My Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
-<b>📋Source Code</b> : <b><a href="https://t.me/Oomban_ULLATH">Click Here</a></b>
+<b>📋Source Code</b> : <b><a href="https://t.me/CM_Releases_bot?start=6104c2935aa7e">Click Here</a></b>
 """
 
 
