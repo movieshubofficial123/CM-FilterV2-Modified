@@ -1,4 +1,4 @@
-<h2 align="center"><b>Source Code Editedand Modified by <a href="https://t.me/NakUl006">Nakul</a></b></h2>
+<h2 align="center"><b>Source Code Edited and Modified by <a href="https://t.me/NakUl006">Nakul</a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/wonkru-bot/my-vertion-of-Userge-x"><img src="https://telegra.ph/file/be9062d2bbd894cf5cf43.jpg" alt="Userge-x" width=400px></a>
