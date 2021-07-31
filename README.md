@@ -33,7 +33,7 @@
 ## How To Deploy (CliCk to That Fecking PiC 🔒) 
 * With Heroku: [Ask Leo](https://t.me/inlineLeosBot)
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/e0c3d6a06cdb9d4f223a6.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/Leos-TG/Version-2.9"><img src="https://telegra.ph/file/92ed8e30fb5eeb09198e7.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
