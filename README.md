@@ -15,7 +15,7 @@
 **Version 2.9** is a Powerful ,Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 <br>
 <p align="center">
-    <a href="https://telegram.dog/CM_Chats"><img src="https://img.shields.io/badge/Support%20Group-PFM--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
+    <a href="https://telegram.dog/CM_Chats"><img src="https://img.shields.io/badge/Support%20Group-CM--%F0%9D%91%BF-blue?&logo=telegram&style=social" width=220px></a></p>
 
 ## Disclaimer
 ```
