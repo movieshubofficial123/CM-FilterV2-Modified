@@ -1,4 +1,4 @@
-# Modified by @Leos_tg
+# Modified by 
 import random
 import string
 import asyncio
